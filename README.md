@@ -1,7 +1,7 @@
 # trojan-cv
 Item's Classification Using Computer Vision
 
-# Intent: Image Classification Using Computer Vision
+# Intent: Object Classification Using Computer Vision
 (Regardless of the feasability of the application currently and ignoring the counting aspect for now)
 
 # Futher Details
