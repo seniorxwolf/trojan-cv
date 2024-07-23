@@ -2,7 +2,7 @@
 Item's Classification Using Computer Vision
 
 # Intent: Object Classification Using Computer Vision
-(Regardless of the feasability of the application currently and ignoring the counting aspect for now)
+(Regardless of the feasibility of the application currently and ignoring the counting aspect for now)
 
 # Futher Details
 1. Generating 3D models of Objects (two objects for now). In charge: Noushida.
